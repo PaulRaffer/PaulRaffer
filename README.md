@@ -2,10 +2,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulRaffer)
 
+[![Website](https://img.shields.io/badge/Website-PaulRaffer.github.io-888?style=flat-square)](https://PaulRaffer.github.io)
+
 
 ## Contact me
 
-[![GitHub](https://img.shields.io/badge/-PaulRaffer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PaulRaffer/PaulRaffer/issues)
+[![E-Mail](https://img.shields.io/badge/EMail-znpivzcx@anonaddy.me-888?style=flat-square)](mailto:znpivzcx@anonaddy.me) [![GitHub](https://img.shields.io/badge/-PaulRaffer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PaulRaffer/PaulRaffer/issues)
 
 
 ## Languages and tools
@@ -27,3 +29,4 @@
 ## Projects
 
 [![raffer_cpplib](https://github-readme-stats.vercel.app/api/pin/?username=PaulRaffer&repo=raffer_cpplib)](https://github.com/PaulRaffer/raffer_cpplib) [![Online-Poker](https://github-readme-stats.vercel.app/api/pin/?username=PaulRaffer&repo=Online-Poker)](https://github.com/PaulRaffer/Online-Poker) [![Snake](https://github-readme-stats.vercel.app/api/pin/?username=PaulRaffer&repo=Snake)](https://github.com/PaulRaffer/Snake)
+
