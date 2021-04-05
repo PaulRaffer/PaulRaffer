@@ -2,12 +2,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulRaffer)
 
-[![Website](https://img.shields.io/badge/Website-PaulRaffer.github.io-888?style=flat-square)](https://PaulRaffer.github.io)
+[![Website](https://img.shields.io/badge/website-PaulRaffer.github.io-888?style=flat-square)](https://PaulRaffer.github.io)
 
 
 ## Contact me
 
-[![E-Mail](https://img.shields.io/badge/EMail-znpivzcx@anonaddy.me-888?style=flat-square)](mailto:znpivzcx@anonaddy.me) [![GitHub](https://img.shields.io/badge/-PaulRaffer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PaulRaffer/PaulRaffer/issues)
+[![E-Mail](https://img.shields.io/badge/email-znpivzcx@anonaddy.me-888?style=flat-square)](mailto:znpivzcx@anonaddy.me) [![GitHub](https://img.shields.io/badge/-PaulRaffer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PaulRaffer/PaulRaffer/issues)
 
 
 ## Languages and tools
