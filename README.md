@@ -30,3 +30,8 @@
 
 [![raffer_cpplib](https://github-readme-stats.vercel.app/api/pin/?username=PaulRaffer&repo=raffer_cpplib)](https://github.com/PaulRaffer/raffer_cpplib) [![Online-Poker](https://github-readme-stats.vercel.app/api/pin/?username=PaulRaffer&repo=Online-Poker)](https://github.com/PaulRaffer/Online-Poker) [![Snake](https://github-readme-stats.vercel.app/api/pin/?username=PaulRaffer&repo=Snake)](https://github.com/PaulRaffer/Snake)
 
+
+## Donate
+
+![1Lh3bmtyKaiA77Q4VWo4rbaVg4Q8YDJQVd](https://img.shields.io/badge/BTC-1Lh3bmtyKaiA77Q4VWo4rbaVg4Q8YDJQVd-888?style=flat-square)
+
